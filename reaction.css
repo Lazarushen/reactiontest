@@ -1,0 +1,16 @@
+#shapes {
+    width: 100px;
+    height: 100px;
+    background: red;
+    display: none;
+    position: relative;
+    border-radius: 
+}
+
+.bold {
+    font-weight: bold;
+}
+
+body {
+    font-family: sans-serif;
+}
